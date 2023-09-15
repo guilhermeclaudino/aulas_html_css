@@ -1,0 +1,27 @@
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue; 
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    line-height: 36px;
+
+}
+
+.vermelho {
+    color:rebeccapurple;
+}
+.texto_grande {
+    font-size: 60px;
+}
+
+#titulo_h2 {
+    background: yellow;
+}
+
+#titulo_h2-1 {
+   color: royalblue;
+}
