@@ -1,0 +1,28 @@
+div{
+    border: 4px dotted blue;
+    width: fit-content;
+    font-size: 24px;
+
+    /* padding-top: 10px; */
+    /* padding-right: 20px; */
+    /* padding-bottom: 30px; */
+    /* padding-left: 40px; */
+
+    /* shorthand */  
+     /* 1-valor = mesmo-valorpra-todos-os-4-lados  */
+    padding: 20px;
+     
+    /* 2-valores-=-primeiro-top-e-bottom-/-segundo-=right-e-left */
+    padding: 30px 50px;
+
+    /* 3-vlaores-=1-top-/-2-right-e-left-/-3bottom */
+    padding: 20px 50px 5px;
+
+    /* 4-vlaores-=1=tpo: / -2px right / 3px bottom / 4px left; */
+    padding: 30px 50px 70px 90px;
+
+    /* -propridades-extras     */
+
+    padding-inline: 40px;
+    padding-block: 20px;
+}

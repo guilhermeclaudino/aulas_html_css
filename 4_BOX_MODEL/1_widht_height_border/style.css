@@ -1,0 +1,21 @@
+.caixa_widht {
+    /* border-width: 2px;  */
+    /* border-style: solid;  */
+    /* border-color: blueviolet;  */
+
+    border: 2px solid rebeccapurple;
+
+    width: 100px;
+
+}
+
+.imagem_widht {
+    width: 200px;
+}
+
+.caixa_height {
+    border: 3px  dashed dodgerblue;
+
+    height: 50px;
+    width: 50px;
+}
